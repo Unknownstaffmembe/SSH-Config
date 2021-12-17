@@ -1,5 +1,5 @@
 # Vim
-A personal vim configuration meant to be used in remote servers.
+A personal vim configuration meant to be used on remote servers.
 
 ## Keybinds
 ### Insert mode
