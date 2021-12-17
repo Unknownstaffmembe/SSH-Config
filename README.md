@@ -1,5 +1,5 @@
 # SSH config
-A config meant for quick access on remote server
+A config meant for quick access on remote servers
 
 # Vim
 A personal vim configuration meant to be used on remote servers.
